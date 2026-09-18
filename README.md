@@ -3,6 +3,6 @@
 ## About Me
 - *NAME:* Aryan AK Jha  
 - *Branch:* CSE AIML   
-- *Year:* First Year    
+- *Year:* 2nd Year    
 - *College:* VIT Bhopal  
 - I am passionate about coding and technology, and I hope to learn and explore more about Artificial Intelligence, software development, and building real-world projects.
